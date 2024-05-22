@@ -43,7 +43,6 @@ shopware:
     cache:
         invalidation:
             delay: 0
-            count: 150
 ```
 
 ## MySQL instead of MariaDB
